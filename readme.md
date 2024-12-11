@@ -1,4 +1,4 @@
-# Kafka Learning Project
+# Kafka Learning Project  📥🔗📤
 
 Apache Kafka is a distributed event-streaming platform capable of handling trillions of events a day. It is widely used for building real-time data pipelines and streaming applications. Kafka's core strengths include high throughput, fault tolerance, scalability, and the ability to process data in real-time.
 
