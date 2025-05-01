@@ -4,6 +4,9 @@ Apache Kafka is a distributed event-streaming platform capable of handling trill
 
 This project demonstrates the use of Kafka producers and consumers for message passing in distributed systems. Below are a couple of key images showcasing the project's setup and execution.
 
+## Kafka Architecture
+![kafa](./images/Kafka-Learning.jpeg)
+
 ## Images
 
 ### Admin Dashboard
